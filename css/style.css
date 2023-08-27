@@ -68,12 +68,6 @@ h2 a {
   font-weight: 400;
 }
 
-h2 span {
-  color: #fb0448;
-  font-weight: 700;
-  font-style: italic;
-}
-
 p#ready {
   display: block;
   position: fixed;
